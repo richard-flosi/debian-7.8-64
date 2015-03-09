@@ -1,4 +1,4 @@
-Creates a [debian-7.8-64](https://atlas.hashicorp.com/puppetlabs/boxes/debian-7.8-64-puppet) vagrant box with [example.com](https://github.com/richard-flosi/example.com) website [provisioned with chef-solo](http://docs.vagrantup.com/v2/provisioning/chef_solo.html).
+Creates a [debian-7.8-64](https://atlas.hashicorp.com/puppetlabs/boxes/debian-7.8-64-puppet) [vagrant](https://vagrantup.com) box with [example.com](https://github.com/richard-flosi/example.com) website [provisioned with chef-solo](http://docs.vagrantup.com/v2/provisioning/chef_solo.html).
 
 # Getting Started
 
