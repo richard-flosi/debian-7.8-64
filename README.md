@@ -16,9 +16,11 @@ Change into the cloned directory:
 And start the vagrant box:
 `vagrant up`
 
-Once this completes you will have a debian server running openresty with example.com host on it. On your local machine you can access the website at: http://192.168.33.10
+Once this completes you will have a [debian](https://www.debian.org/) server running [openresty](http://openresty.org/) with [example.com](https://github.com/richard-flosi/example.com) hosted on it.
+
+On your local machine you can access the website at: http://192.168.33.10
 
 Update the `/etc/hosts` file on your local machine to include:
 `192.168.33.10	vagrant.example.com`
 
-Now you can access the website at: http://vagrant.example.com/
+Now you can access the website locally at: http://vagrant.example.com/
