@@ -1,6 +1,6 @@
 {
   "name": "web",
-  "description": "",
+  "description": "Creates a debian-7.8-64 vagrant box with example.com website provisioned with chef-solo.",
   "json_class": "Chef::Role",
   "default_attributes": {
 
