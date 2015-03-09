@@ -2,18 +2,18 @@ Creates a [debian-7.8-64](https://atlas.hashicorp.com/puppetlabs/boxes/debian-7.
 
 # Getting Started
 
-Install [Vagrant](http://docs.vagrantup.com/v2/installation/) and [Virtual Box](https://www.virtualbox.org/wiki/Downloads).
+1. Install [Vagrant](http://docs.vagrantup.com/v2/installation/) and [Virtual Box](https://www.virtualbox.org/wiki/Downloads).
 
-Install the [Vagrant Berkshelf Plugin](http://berkshelf.com/):
+2. Install the [Vagrant Berkshelf Plugin](http://berkshelf.com/):
 `vagrant plugin install vagrant-berkshelf`
 
-Clone this repository:
+3. Clone this repository:
 `git clone git@github.com:richard-flosi/debian-7.8-64.git`
 
-Change into the cloned directory:
+4. Change into the cloned directory:
 `cd debian-7.8-64`
 
-And start the vagrant box:
+5. Start the vagrant box:
 `vagrant up`
 
 Once this completes you will have a [debian](https://www.debian.org/) server running [openresty](http://openresty.org/) with [example.com](https://github.com/richard-flosi/example.com) hosted on it.
