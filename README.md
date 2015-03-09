@@ -31,3 +31,5 @@ Update the `/etc/hosts` file on your local machine to include:
 
 Now you can access the website locally at:
 http://vagrant.example.com/
+
+![vagrant.example.com](https://raw.githubusercontent.com/richard-flosi/debian-7.8-64/master/vagrant.example.com-screenshot.png "Screenshot")
