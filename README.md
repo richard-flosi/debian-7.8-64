@@ -1,22 +1,23 @@
 Creates a [debian-7.8-64](https://atlas.hashicorp.com/puppetlabs/boxes/debian-7.8-64-puppet) [vagrant](https://vagrantup.com) box with [example.com](https://github.com/richard-flosi/example.com) website [provisioned with chef-solo](http://docs.vagrantup.com/v2/provisioning/chef_solo.html).
 
-# Getting Started
-
+# Prerequisites
 1. Install [Vagrant](http://docs.vagrantup.com/v2/installation/) and [Virtual Box](https://www.virtualbox.org/wiki/Downloads).
 
 2. Install the [Vagrant Berkshelf Plugin](http://berkshelf.com/):
 
    `vagrant plugin install vagrant-berkshelf`
 
-3. Clone this repository:
+# Getting Started
+
+1. Clone this repository:
 
    `git clone git@github.com:richard-flosi/debian-7.8-64.git`
 
-4. Change into the cloned directory:
+2. Change into the cloned directory:
 
    `cd debian-7.8-64`
 
-5. Start the vagrant box:
+3. Start the vagrant box:
 
    `vagrant up`
 
