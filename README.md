@@ -1,7 +1,7 @@
 Creates a [debian-7.8-64](https://atlas.hashicorp.com/puppetlabs/boxes/debian-7.8-64-puppet) [vagrant](https://vagrantup.com) box with [example.com](https://github.com/richard-flosi/example.com) website [provisioned with chef-solo](http://docs.vagrantup.com/v2/provisioning/chef_solo.html).
 
 # Prerequisites
-1. Install [Vagrant](http://docs.vagrantup.com/v2/installation/) and [Virtual Box](https://www.virtualbox.org/wiki/Downloads).
+1. Install [Vagrant](http://docs.vagrantup.com/v2/installation/), [Virtual Box](https://www.virtualbox.org/wiki/Downloads), and [Chef Development Kit](https://downloads.chef.io/chef-dk/).
 
 2. Install the [Vagrant Berkshelf Plugin](http://berkshelf.com/):
 
